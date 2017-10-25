@@ -49,6 +49,6 @@ def add_s(array)
    if add == "feet"
      puts "feet"
    else
-     add << "s" add[1]
+     add << "s"
  end
 end
