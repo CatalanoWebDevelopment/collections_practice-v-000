@@ -50,5 +50,6 @@ def add_s(array)
      puts "feet"
    else
      add << "s"
+   end
  end
 end
